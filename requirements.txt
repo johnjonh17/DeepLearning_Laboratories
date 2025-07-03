@@ -1,0 +1,16 @@
+numpy
+matplotlib
+torch
+torchvision
+scikit-learn
+tqdm
+wandb
+gymnasium[box2d]
+ipython
+transformers
+datasets
+pandas
+peft
+accelerate
+bitsandbytes
+google-colab ; sys_platform == "linux"
